@@ -7,14 +7,14 @@
 
 
  <h2>Sobre mim</h2> 
-Estudante de informatica pelo IFMA Campus Açailândia, tenho afinidade por programação Full - Stack.
+Estudante de informática pelo IFMA Campus Açailândia, tenho afinidade por programação Full - Stack.
 
 <h2>Redes Sociais</h2>
 
 <div style="display: flex">
 <br>
 
-[![linkedin](https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
+[![Instagran](https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.instagram.com/vivi_dias21/))
 
 </div>
 
@@ -25,15 +25,11 @@ Estudante de informatica pelo IFMA Campus Açailândia, tenho afinidade por prog
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=yellow)
 
-![ReactJs](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=blue)
-
 ![FireBase](https://img.shields.io/badge/firebase-000?style=for-the-badge&logo=firebase&logoColor=yellow)
 
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
 
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=blue)
-
-![Styled-Component](https://img.shields.io/badge/StyledComponent-000?style=for-the-badge&logo=styledComponents)
 
 </div>
 
