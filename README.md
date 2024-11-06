@@ -1,9 +1,12 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffff&height=120&section=header"/>
 
- <h2 align="left">Oiii 👋! Meu nome é Viviane Dias</h2>
+ <h2 align="left">Oiii! Eu sou a Viviane Dias👋</h2>
 
 ###
+
+<h2>Sobre mim</h2> 
+Estudante de informática pelo IFMA Campus Açailândia, tenho afinidade por programação Full - Stack.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vividias520&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
