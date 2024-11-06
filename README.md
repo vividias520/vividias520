@@ -3,11 +3,11 @@
 
 
 
-<h1 align="center">Olá! Eu sou o Vitor Hugo 👋</h1>
+<h1 align="center">Olá! Eu sou a Viviane Dias 👋</h1>
 
 
  <h2>Sobre mim</h2> 
-Estudante de Análise e Desenvolvimento de Sistemas e apaixonado pro tecnologia. Gosto muito do Full-Stack, porém estou focando mais no Front-End.
+Estudante de informatica pelo IFMA Campus Açailândia, tenho afinidade por programação Full - Stack.
 
 <h2>Redes Sociais</h2>
 
