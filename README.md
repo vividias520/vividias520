@@ -6,6 +6,7 @@
 ###
 
 <h2>Sobre mim</h2> 
+
 Estudante de informática pelo IFMA Campus Açailândia, tenho afinidade por programação Full - Stack.
 
 <div align="center">
@@ -30,7 +31,7 @@ Estudante de informática pelo IFMA Campus Açailândia, tenho afinidade por pro
 </div>
 
 ###
-
+<h2>Fale comigo😉</h2> 
 <div align="left">
   <a href="https://www.instagram.com/vivi_dias21/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=2271B3&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -44,6 +45,6 @@ Estudante de informática pelo IFMA Campus Açailândia, tenho afinidade por pro
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/vividias520/vividias520/output/snake.svg" alt="Snake animation" />
+<!--img src="https://raw.githubusercontent.com/vividias520/vividias520/output/snake.svg" alt="Snake animation" /-->
 
 ###
