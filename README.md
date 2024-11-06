@@ -14,7 +14,7 @@ Estudante de informática pelo IFMA Campus Açailândia, tenho afinidade por pro
 <div style="display: flex">
 <br>
 
-[![Instagran](https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.instagram.com/vivi_dias21/))
+[![Instagran](https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.instagram.com/vivi_dias21/)
 
 </div>
 
